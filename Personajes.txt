@@ -1,0 +1,15 @@
+Shrek,Shrek,Ataque,100,50,10
+Sullivan,Monsters Inc,Defensa,140,40,20
+Jefe_Maestro,Halo,Balanceado,110,45,15
+Buzz,Toy Story,Ataque,95,55,12
+Baymax,Big Hero 6,Defensa,160,35,25
+Simba,El Rey Leon,Balanceado,120,48,18
+Vegeta,Dragon ball Z,Ataque,90,60,8
+Goku,Dragon ball Z,Balanceado,115,50,14
+Naruto,Naruto,Ataque,85,65,7
+Sonic,Sonic,Balanceado,105,52,16
+Mario,Super Mario,Defensa,150,38,22
+Ash_ketchum,Pokemon,Ataque,80,70,6
+Alex,Madagascar,Defensa,170,30,28
+Tarzan,Tarzan,Balanceado,100,55,13
+Homero,Los simpson,Balanceado,95,42,18
